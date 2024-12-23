@@ -1,5 +1,6 @@
 types_of_people = 10
 x = f"There are {types_of_people} types of people."
+#10=2
 
 binary = "binary"
 do_not = "don't"
